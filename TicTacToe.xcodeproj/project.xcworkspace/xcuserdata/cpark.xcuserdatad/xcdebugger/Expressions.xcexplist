@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameMgr.updateBoard(_:_:_:):GameMgr.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameMgr.checkWinner():GameMgr.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "board.cells[2][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
